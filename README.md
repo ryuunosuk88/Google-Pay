@@ -12,9 +12,9 @@ Google Pay给我们带来便捷，下面详细介绍Google Pay在国内绑定银
 
 ## 步骤三：绑定信用卡或借记卡
 
-这里我们需要一张虚拟卡。我使用的是556150的卡来绑定的，点击 [获取虚拟卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)。
+这里我们需要一张虚拟卡。我使用的是556150的卡来绑定的，点击 [获取虚拟卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
-开卡步骤也很简单，并且0年费0月费。开卡详情请见 [开卡步骤](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)。
+开卡步骤也很简单，并且0年费0月费。开卡详情请见 [开卡步骤](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
 ![image](https://github.com/ryuunosuk88/Google-Pay/assets/169963068/87077315-8795-4d21-b925-adb1104a71cb)
 
